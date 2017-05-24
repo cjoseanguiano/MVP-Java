@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVP Java</string>
+    <string name="user_name">usuario</string>
+    <string name="password">contraseña</string>
+    <string name="log_in">Login</string>
+    <string name="username_error">Username cannot be empty</string>
+    <string name="password_error">Password cannot be empty</string>
+    <string name="action_settings">settings</string>
+
+</resources>
